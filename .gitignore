@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 101 ObjectCategories
+img/101_ObjectCategories/
